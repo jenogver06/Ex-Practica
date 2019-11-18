@@ -1,0 +1,27 @@
+html {
+    background-color:gray;
+}
+
+img.sistema {
+    width: 150px;
+    height: 130px;
+    float: right;
+    margin-right:650px;
+}
+
+section.boton {
+    background-color:white;
+      
+}
+
+img.recep {
+    width:150px;
+    float: right;
+    margin-left:100px;
+
+}
+
+p.ayuda {
+    text-align: right;
+}
+
