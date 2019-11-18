@@ -1,27 +1,39 @@
 html {
     background-color:gray;
 }
-
+main {
+    background-color:whitesmoke;
+}
 img.sistema {
     width: 150px;
     height: 130px;
-    float: right;
-    margin-right:650px;
+    margin-left: 650px;
 }
-
 section.boton {
     background-color:white;
+    text-align: center;
       
 }
-
 img.recep {
     width:150px;
+    height: 150px;
     float: right;
-    margin-left:100px;
-
+    margin-left:150px;
 }
-
 p.ayuda {
     text-align: right;
+    color:blue;
 }
-
+ img.presi {
+     height: 500px;
+}
+p.pensar {
+    color:blue;
+}
+p.direccion {
+    color:blue;
+    padding:10px;
+}
+footer {
+    text-align: center;    
+}
